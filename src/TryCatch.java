@@ -7,7 +7,7 @@ public class TryCatch {
 		try {
 			
 		int[] a = null;
-		System.out.println(a[0]);
+		System.out.println(a10]);
 		} catch(NullPointerException e) {
 			System.out.println("Your array is null");
 		} catch(ArrayIndexOutOfBoundsException e) {
